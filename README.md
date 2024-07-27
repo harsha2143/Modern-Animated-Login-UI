@@ -5,6 +5,7 @@ A stylish login page with smooth animation transitions, designed to provide a mo
 - Social Media Integration: Quick login options with Google, Facebook, GitHub, and LinkedIn.
 - Modern Aesthetics: Clean and visually appealing interface.
 - Custom Background: Split background with different colors for a unique look.
+  
 #Technologies Used
 - HTML
 - CSS
